@@ -1,0 +1,33 @@
+body
+{
+  background-image: url(chitkara.jpg);
+}
+.img{
+  display: inline-block;
+  padding-left: 60%;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  display: inline-flex;
+}
+.head
+{
+  display: block;
+  color: rgb(0, 0, 0);
+  text-align: left;font-family: sans-serif;
+
+}
+
+
+
+.head h1{
+  text-align: center;font-size: 40px;font-weight: 600px;
+}
+.button{
+  color: red;
+}

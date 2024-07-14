@@ -1,0 +1,42 @@
+body
+{
+  background-image: url(chitkara.jpg);
+  background-size: cover;
+}
+.line{
+  background-color: red; 
+  width: 100%;
+}
+.img{
+  display: inline-block;
+  padding-left: 60%;
+}
+.container {
+  margin: 20px;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  width:48%;
+  border:solid grey 3px;
+}
+.head
+{
+  display: block;
+  color: rgb(0, 0, 0);
+  text-align: left;font-family: sans-serif;
+
+}
+input[type="text"]{width:85%;}
+input[type="password"]{width:85%;}
+
+
+
+.head h1{
+  text-align: center;font-size: 40px;font-weight: 600px;
+}
+button{width:80%; color:white; background-color: red; border-color:red; font-size: 20px ;} 
+
+#rempass {font-size: 12px;}
+
+select{ width:87%;}
